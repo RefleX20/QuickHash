@@ -1,0 +1,23 @@
+As a senior in college. Quick hash is my first ever application developed and submitted to the MacOS app store. 
+I use checksums often to verify that the file i downloaded matches the file that the developer website provides. This 
+comes in handy when the developer download is not working and finding a 3rd party archive is nessesary. If the developer website
+provides a Checksum in SHA-256 or other common checksums, you can verify the authenicity of the download to prove that the file
+doesnt have any malicious changes to it. 
+
+
+
+When comparing using my to generate SHA checksums versus using the command prompt, here are the key diffences:
+
+### Summary:
+
+| Feature                   | **Quick Hash**                                | **Command Prompt**                          |
+|----------------------------|---------------------------------------------|---------------------------------------------|
+| **Ease of Use**             | Simple, graphical interface                | Requires technical knowledge, command syntax|
+| **Speed & Convenience**     | One-click generation                       | Manual file navigation, requires typing     |
+| **Platform Compatibility**  | Cross-platform with unified experience     | Different commands for Windows/macOS/Linux  |
+| **Error Handling**          | User-friendly error messages               | Cryptic command-line errors                 |
+| **Visual Interface**        | GUI with easy use                          | Hard to remember Commands and Installed packages|
+
+
+
+
