@@ -1,17 +1,26 @@
-As a senior in college. Quick hash is my first ever application developed and submitted to the MacOS app store. 
-I use checksums often to verify that the file i downloaded matches the file that the developer website provides. This 
-comes in handy when the developer download is not working and finding a 3rd party archive is nessesary. If the developer website
-provides a Checksum in SHA-256 or other common checksums, you can verify the authenicity of the download to prove that the file
-doesnt have any malicious changes to it. 
+As a senior in college, Quick Hash is my first application, which was developed and submitted to the macOS App Store. 
+I often use checksums to verify that the files I download are authentic and match the ones provided by the 
+developer's website. However, I grew tired of looking up the commands whenever I needed 
+to generate a checksum.
 
+The best part is that NO DATA IS COLLECTED, AND IT IS 100% FREE, unlike websites that collect your IP, 
+MAC Address and other identifying information, including advertising. 
 
+Quick Hash simplifies the process by making it easy to generate checksums for any file with just a few 
+clicks. This is especially useful when the official download from a developer’s website is unavailable and
+you're forced to download from a third-party archive. By comparing the checksum provided by the developer 
+(like an SHA-256 hash), you can verify that malicious actors haven’t tampered with the file.
 
-When comparing using my to generate SHA checksums versus using the command prompt, here are the key diffences:
+Additionally, Quick Hash can be used when sending sensitive files, such as tax documents, to ensure 
+they haven’t been altered. This adds an extra layer of security when sharing important information that 
+hackers might be interested in modifying.
+
+When comparing using my to generate SHA checksums versus using the command prompt, here are the key differences:
 
 ### Summary:
 
-| Feature                   | **Quick Hash**                                | **Command Prompt**                          |
-|----------------------------|---------------------------------------------|---------------------------------------------|
+| Feature                     | **Quick Hash**                             | **Command Prompt**                          |
+|-----------------------------|--------------------------------------------|---------------------------------------------|
 | **Ease of Use**             | Simple, graphical interface                | Requires technical knowledge, command syntax|
 | **Speed & Convenience**     | One-click generation                       | Manual file navigation, requires typing     |
 | **Platform Compatibility**  | Cross-platform with unified experience     | Different commands for Windows/macOS/Linux  |
